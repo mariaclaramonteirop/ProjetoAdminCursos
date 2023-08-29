@@ -1,2 +1,3 @@
 # ProjetoAdminCursos
-Construindo o lado da Administração de uma "Empresa" de distribuição de Cursos usando PHP procedural.
+Construindo uma plataforma EAD, de distribuição e vendas de cursos.
+**Lado Admin e Cliente usando PHP.**
